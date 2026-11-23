@@ -1,0 +1,5 @@
+-- 03_customer_segments
+customer_type  transactions  revenue    avg_spend  avg_rating
+-------------  ------------  ---------  ---------  ----------
+Member         501           164223.44  327.79     6.94      
+Normal         499           158743.31  318.12     7.01      

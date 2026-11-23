@@ -1,0 +1,6 @@
+-- 04_branch_performance
+city       revenue    invoices  peak_revenue_hour
+---------  ---------  --------  -----------------
+Naypyitaw  110568.71  328       19               
+Yangon     106200.37  340       11               
+Mandalay   106197.67  332       19               

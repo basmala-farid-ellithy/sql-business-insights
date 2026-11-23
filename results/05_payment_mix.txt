@@ -1,0 +1,9 @@
+-- 05_payment_mix
+payment      customer_type  transactions  revenue   pct_of_type_revenue
+-----------  -------------  ------------  --------  -------------------
+Credit card  Member         172           57771.47  35.2               
+Cash         Member         168           54661.02  33.3               
+Ewallet      Member         161           51790.96  31.5               
+Ewallet      Normal         184           58202.15  36.7               
+Cash         Normal         176           57545.55  36.3               
+Credit card  Normal         139           42995.6   27.1               
